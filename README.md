@@ -11,7 +11,7 @@ Identify patient trends such as oldest patients, most common diseases, etc.
 
 Analyze treatment costs and expenditures.
 
-Demonstrate SQL queries with JOINs, subqueries, views, window functions, and aggregations.
+Demonstrate SQL queries with JOINs, subqueries,  window functions, and aggregations.
 
 📂 Dataset
 
@@ -21,7 +21,6 @@ patients.csv → Patient demographics
 
 admissions.csv → Admission & disease details
 
-treatments.csv → Treatment cost records
 
 🔑 Sample Queries
 
